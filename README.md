@@ -82,4 +82,4 @@ game development to strengthen problem-solving and system design skills.
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-josephsiam.business@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephsiam.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseph--lal--rem--siam-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-lal-rem-siam)
+www.linkedin.com/in/josephsiam
