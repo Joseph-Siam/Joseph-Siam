@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph Siam
 
-🎓 Computer Science Student @ Siam University — AI Specialization
+🎓 Computer Science Student @ Global Academy at Siam University — AI Specialization
 🔐 Aspiring Backend & Cybersecurity Engineer
 🛠️ Building scalable backend systems with Java, Python & Spring Boot
 📍 Bangkok, Thailand
