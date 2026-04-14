@@ -1,113 +1,102 @@
-# 👋 Hi, I'm Joseph Siam
+# Joseph Lal Rem Siam
 
-🎓 Computer Science Student @ Global Academy at Siam University — AI Specialization
-🔐 Aspiring Backend & Cybersecurity Engineer
-🛠️ Building scalable backend systems with Java, Python & Spring Boot
-📍 Bangkok, Thailand
+**Backend Systems · Networking · Cybersecurity**  
+📍 Bangkok, Thailand · 🎓 B.S. Computer & Data Science, AI Specialization @ Siam University  
 🚀 Actively seeking Backend / Cybersecurity Internship (2025–2026)
 
----
-
-## 💡 About Me
-
-I design and build backend systems with a focus on **scalability, 
-networking, and security**. I enjoy solving real-world problems 
-through client-server applications, system design, and secure 
-architecture.
-
-Currently developing a **Donkey Kong-style platformer** in Python 
-(Pygame), applying object-oriented programming, game physics, and 
-system design principles.
-
-- 🔭 Currently working on: **Python Pygame Platformer**
-- 🌱 Currently learning: **System Design · REST APIs · Network Security**
-- 💬 Ask me about: **Java, Spring Boot, Client-Server Architecture**
-- 🎯 Goal: **Backend & Cybersecurity Engineering Internship**
+[![Email](https://img.shields.io/badge/Email-josephsiam.business@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephsiam.business@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephsiam-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephsiam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joseph--siam.github.io-24292e?style=flat&logo=github&logoColor=white)](https://joseph-siam.github.io)
 
 ---
 
-## 🧠 Core Skills
+## About Me
 
-- **Backend Development:** REST APIs, Client-Server Architecture
-- **Networking:** TCP/IP, Socket Programming
-- **Security Fundamentals:** Input validation, secure communication basics
-- **System Design:** Modular architecture, separation of concerns
+I design and implement backend systems from the socket layer up — concurrent servers, REST APIs, and performance-critical rendering pipelines. I write Java and Python professionally and apply OWASP-aligned security practices across every project.
+
+- 🔭 **Building:** DOOM-style raycasting engine in Python (Pygame)
+- 🌱 **Studying:** Google Cybersecurity Certificate · AWS Cloud Practitioner
+- 💬 **Ask me about:** Java · Spring Boot · TCP/IP · Client-Server Architecture
+- 🎯 **Goal:** Backend Engineering or Cybersecurity Internship
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ♟️ Multiplayer Chess Application
-> Java · TCP Sockets · Client-Server Architecture
+### 🎮 [DOOM-Style Raycasting Engine](https://github.com/Joseph-Siam) · Python · Pygame · NumPy
 
-- Developed a real-time multiplayer chess application supporting 
-concurrent players using TCP socket communication
-- Implemented move validation, check/checkmate detection, and 
-synchronized game state across clients
-- Designed modular architecture separating networking, game logic, 
-and UI for scalability and maintainability
-- Applied input validation to ensure integrity of game actions and 
-prevent invalid inputs
+A pseudo-3D software renderer built from scratch — no 3D libraries.  
+Wall projection, depth buffering, texture mapping, and a full game-state pipeline.  
+Modular 10+ class architecture: renderer, map parser, entity manager, input controller.
 
-👉 [View Project](https://github.com/Joseph-Siam/chess-app-java)
+> **3× throughput improvement · 60 FPS sustained on a single-core Python process**
 
 ---
 
-### 🌐 Thai Language Learning Web App *(Coming Soon)*
-> Java · Spring Boot · REST API · MVC
+### ♟️ [Multiplayer Chess Engine](https://github.com/Joseph-Siam/chess-app-java) · Java · TCP Sockets · Concurrent Server
 
-- Built a flashcard-based learning platform using Spring Boot
-- Designed and implemented RESTful APIs with structured backend 
-architecture
-- Applied input validation and session handling for secure data 
-processing
-- Delivered presentation to an international audience across 5+ 
-countries
+Multi-threaded TCP server managing concurrent LAN game sessions with a custom application-layer protocol for real-time board-state sync.  
+Full chess rule enforcement — pin detection, check, checkmate — across a 10-class, ~3,000 LOC codebase.  
+Hardened against malformed and adversarial payloads with graceful error isolation under concurrent load.
+
+> **Zero state-inconsistency bugs in testing**
 
 ---
 
-### 🚗 Sustainable Mini Vehicle — Embedded Systems *(Coming Soon)*
-> Circuit Design · Electrical Systems · Hardware Engineering
+### 🌐 [Thai Language Learning Platform](https://github.com/Joseph-Siam) · Java · Spring Boot · REST · MVC
 
-- Designed and assembled a functional mini vehicle using 100% 
-recycled materials
-- Implemented circuit design, power distribution, and embedded 
-systems concepts
-- Led a team of 5 from concept to completion
+15+ endpoint RESTful service supporting flashcard delivery, user-progress persistence, and multilingual content retrieval.  
+Server-side session management hardened against hijacking and injection attacks per OWASP secure-by-default practices.
+
+> **Live demo · audience across 5+ countries · zero downtime**
 
 ---
 
-### 🎮 Donkey Kong Platformer *(In Progress)*
-> Python · Pygame · Game Development
+### 🚗 Sustainable Embedded Vehicle · Circuit Design · Power Electronics
 
-- Developing a side-scrolling platformer with collision detection, 
-sprite animation, and physics-based movement
-- Applying object-oriented design with multiple classes for game 
-entities, level systems, and game logic
-- Designing modular and extensible architecture for future feature 
-expansion
+Led a 5-person team to design and commission a battery-powered motorized vehicle from reclaimed materials.  
+Owned the full electrical stack: circuit layout, voltage regulation, motor-control wiring.
+
+> **Passed all functional verification tests on first power-on · top recognition from international academic panel**
 
 ---
 
-## 📊 GitHub Stats
+## Skills
+
+| Domain | Stack |
+|---|---|
+| Languages | Java · Python · JavaScript |
+| Backend | Spring Boot · RESTful APIs · MVC · TCP/IP |
+| Systems | Client-server architecture · Linux · Thread management |
+| Security | OWASP · Input validation · Session management · TryHackMe |
+| Cloud / DevOps | Git · AWS Cloud Practitioner (in progress) |
+| Hardware | Circuit design · Power distribution · Blueprint reading |
+| Spoken Languages | English (Professional) · Burmese (Native) · Thai (Basic) |
+
+---
+
+## GitHub Stats
 
 ![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph-Siam&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Siam&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contact
+## Certifications
 
-[![Email](https://img.shields.io/badge/Email-josephsiam.business@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephsiam.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephsiam-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephsiam)
+- 🔐 **Google Cybersecurity Certificate** — In Progress *(Coursera)*
+- ☁️ **AWS Certified Cloud Practitioner** — Expected April 2026
+- 🖥️ **TryHackMe** — Ongoing *(network scanning, enumeration, vulnerability identification)*
+- 
