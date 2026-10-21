@@ -1,102 +1,78 @@
 # Joseph Lal Rem Siam
 
-**Backend Systems · Networking · Cybersecurity**  
-📍 Bangkok, Thailand · 🎓 B.S. Computer & Data Science, AI Specialization @ Siam University  
-🚀 Actively seeking Backend / Cybersecurity Internship (2025–2026)
+**Third-year Computer & Data Science Student | Cybersecurity & AI Security**
 
-[![Email](https://img.shields.io/badge/Email-josephsiam.business@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephsiam.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephsiam-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephsiam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-joseph--siam.github.io-24292e?style=flat&logo=github&logoColor=white)](https://joseph-siam.github.io)
+📍 Bangkok, Thailand
+
+🎓 Siam University, Global Academy: AI Specialization
+
+🎯 Seeking internships in Cybersecurity, Application Security or Security Engineering
+
+📅 Expected Graduation: May 2028
+
+[LinkedIn](https://www.linkedin.com/in/josephsiam) · [Portfolio](https://joseph-siam.github.io/) · [Email](mailto:josephsiam.business@gmail.com)
 
 ---
 
 ## About Me
 
-I design and implement backend systems from the socket layer up — concurrent servers, REST APIs, and performance-critical rendering pipelines. I write Java and Python professionally and apply OWASP-aligned security practices across every project.
+I build backend systems using Java and Python, with experience in TCP socket programming, concurrent servers and REST APIs.
 
-- 🔭 **Building:** DOOM-style raycasting engine in Python (Pygame)
-- 🌱 **Studying:** Google Cybersecurity Certificate · AWS Cloud Practitioner
-- 💬 **Ask me about:** Java · Spring Boot · TCP/IP · Client-Server Architecture
-- 🎯 **Goal:** Backend Engineering or Cybersecurity Internship
+I'm developing my cybersecurity knowledge through university coursework, hands-on security labs and a team-based LLM prompt-injection defence project, where I focus on security testing and evaluation.
 
----
+## Currently Working On
 
-## Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- 🔬 Testing a team-built **LLM Prompt-Injection Guard** using multilingual and multi-turn attack scenarios against a simulated chatbot
+- 📚 Google Cybersecurity Certificate (in progress) and AWS cloud fundamentals
+- 🧪 TryHackMe labs covering network scanning, host enumeration and service fingerprinting
+- 🎮 Developing a DOOM-style raycasting engine in Python
 
 ---
 
 ## Featured Projects
 
-### 🎮 [DOOM-Style Raycasting Engine](https://github.com/Joseph-Siam) · Python · Pygame · NumPy
+### 1. LLM Prompt-Injection Guard (AI Gateway)
+**Python · FastAPI · AI Security · Team Project | 2026–Present**
 
-A pseudo-3D software renderer built from scratch — no 3D libraries.  
-Wall projection, depth buffering, texture mapping, and a full game-state pipeline.  
-Modular 10+ class architecture: renderer, map parser, entity manager, input controller.
+A team-developed working prototype designed to detect and block prompt-injection attempts targeting a simulated chatbot.
 
-> **3× throughput improvement · 60 FPS sustained on a single-core Python process**
+My main contribution is security testing and evaluation:
+- Testing multilingual and multi-turn attack scenarios using teammate-prepared datasets
+- Evaluating detection and risk-based responses
+- Reviewing audit logs and dashboard results to identify weaknesses and inform improvements
 
----
+### 2. Thai Language Learning Platform
+**Java · Spring Boot · REST APIs · MVC | 2025**
 
-### ♟️ [Multiplayer Chess Engine](https://github.com/Joseph-Siam/chess-app-java) · Java · TCP Sockets · Concurrent Server
+Built a multilingual learning backend with 15+ API endpoints supporting flashcards, user-progress persistence and content retrieval.
 
-Multi-threaded TCP server managing concurrent LAN game sessions with a custom application-layer protocol for real-time board-state sync.  
-Full chess rule enforcement — pin detection, check, checkmate — across a 10-class, ~3,000 LOC codebase.  
-Hardened against malformed and adversarial payloads with graceful error isolation under concurrent load.
+Implemented server-side session management and parameterized data access.
 
-> **Zero state-inconsistency bugs in testing**
+### 3. [Multiplayer Chess Engine](https://github.com/Joseph-Siam/chess-app-java)
+**Java · TCP Sockets · Concurrent Server | 2025**
 
----
+Built a multithreaded LAN chess server with a custom real-time synchronization protocol.
 
-### 🌐 [Thai Language Learning Platform](https://github.com/Joseph-Siam) · Java · Spring Boot · REST · MVC
+Implemented input validation and per-session error isolation to handle malformed payloads.
 
-15+ endpoint RESTful service supporting flashcard delivery, user-progress persistence, and multilingual content retrieval.  
-Server-side session management hardened against hijacking and injection attacks per OWASP secure-by-default practices.
+### 4. Cloud POS & Inventory: Cybersecurity Threat Analysis
+**University Group Coursework | 2026**
 
-> **Live demo · audience across 5+ countries · zero downtime**
+Analyzed security threats affecting a proposed cloud POS system, including payment-data interception, unauthorized inventory modifications, DDoS and ransomware.
 
----
+### 5. DOOM-Style Raycasting Engine
+**Python · Pygame · NumPy | 2026–Present**
 
-### 🚗 Sustainable Embedded Vehicle · Circuit Design · Power Electronics
-
-Led a 5-person team to design and commission a battery-powered motorized vehicle from reclaimed materials.  
-Owned the full electrical stack: circuit layout, voltage regulation, motor-control wiring.
-
-> **Passed all functional verification tests on first power-on · top recognition from international academic panel**
+Building a pseudo-3D rendering engine from scratch. Vectorized ray calculations with NumPy for roughly 3× faster rendering.
 
 ---
 
-## Skills
+## Technical Skills
 
-| Domain | Stack |
+| Area | Skills |
 |---|---|
-| Languages | Java · Python · JavaScript |
-| Backend | Spring Boot · RESTful APIs · MVC · TCP/IP |
-| Systems | Client-server architecture · Linux · Thread management |
-| Security | OWASP · Input validation · Session management · TryHackMe |
-| Cloud / DevOps | Git · AWS Cloud Practitioner (in progress) |
-| Hardware | Circuit design · Power distribution · Blueprint reading |
-| Spoken Languages | English (Professional) · Burmese (Native) · Thai (Basic) |
-
----
-
-## GitHub Stats
-
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph-Siam&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Siam&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Certifications
-
-- 🔐 **Google Cybersecurity Certificate** — In Progress *(Coursera)*
-- ☁️ **AWS Certified Cloud Practitioner** — Expected April 2026
-- 🖥️ **TryHackMe** — Ongoing *(network scanning, enumeration, vulnerability identification)*
-- 
+| Programming | Java, Python |
+| Backend | Spring Boot, FastAPI, REST APIs, PostgreSQL, TCP/IP Sockets, Concurrent Servers |
+| Security | OWASP-informed Secure Coding, Input Validation, Session Management, Prompt-Injection Defence Testing, Network Scanning & Enumeration |
+| Tools & Systems | Git/GitHub, Linux CLI, NumPy, AWS Fundamentals |
+| Spoken Languages | Burmese (Native), English (Professional), Thai (Basic) |
